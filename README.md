@@ -10,11 +10,30 @@ Implementation was done in Python, using the YOLOv8 large variant due to the com
 All images were manually annotated using [CVAT](https://www.cvat.ai/).  
 Total number of annotations: **18,165**
 Image sources:
- - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php); - *defunct*
- - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/);
+ - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php) - *defunct*
+ - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/)
  - Local elementary schools:
    - OŠ Radoje Domanović, Kragujevac
    - OŠ Jovan Popović, Kragujevac
+  
+### Classes
+Below is a list of classes and the number of their appearances in the entire dataset, respectively:
+ - sports_ball: 252
+ - fish: 190
+ - window: 3022
+ - vehicle: 213
+ - pet: 490
+ - star: 414
+ - bird: 895
+ - flower: 1901
+ - person: 3726
+ - house: 1281
+ - cloud: 1931
+ - butterfly: 108
+ - door: 1035
+ - sun: 905
+ - tree: 1424
+ - heart: 378
 
 ### Dataset Split
 **Total images**: 2,041
@@ -30,5 +49,5 @@ It includes:
  - Recall-confidence curves
  - Example images with predicted labels
 
-## Sample Images
+### Sample Images
 Some sample images collected locally are provided within `sampleimages/`.

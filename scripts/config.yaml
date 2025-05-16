@@ -1,0 +1,23 @@
+path: C:\Users\Win11\PycharmProjects\pythonProject\data
+train: images\train
+val: images\val
+
+names:
+  0: sun
+  1: football
+  2: sports_ball
+  3: bird
+  4: cloud
+  5: pet
+  6: butterfly
+  7: flower
+  8: stickman
+  9: house
+  10: person
+  11: door
+  12: window
+  13: tree
+  14: vehicle
+  15: fish
+  16: star
+  17: heart

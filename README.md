@@ -31,4 +31,4 @@ It includes:
  - Example images with predicted labels
 
 ## Sample Images
-Some sample images collected locally are provided within 'sampleimages/'.
+Some sample images collected locally are provided within `sampleimages/`.

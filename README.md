@@ -10,7 +10,7 @@ Implementation was done in Python, using the YOLOv8 large variant due to the com
 - All images were manually annotated using [CVAT](https://www.cvat.ai/).  
 - Total number of annotations: **18,165**
 - Image sources:
-  - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php);
+  - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php); - *defunct*
   - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/);
   - Local elementary schools:
     - OŠ Radoje Domanović, Kragujevac
@@ -30,3 +30,5 @@ It includes:
 - Recall-confidence curves
 - Example images with predicted labels
 
+## Sample Images
+Some sample images collected locally are provided within 'sampleimages/'.

@@ -7,28 +7,28 @@ The goal of the project was to build a model capable of recognizing various obje
 Implementation was done in Python, using the YOLOv8 large variant due to the complexity and variation in object appearances.
 
 ### Dataset and Annotations
-- All images were manually annotated using [CVAT](https://www.cvat.ai/).  
-- Total number of annotations: **18,165**
-- Image sources:
-  - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php); - *defunct*
-  - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/);
-  - Local elementary schools:
-    - OŠ Radoje Domanović, Kragujevac
-    - OŠ Jovan Popović, Kragujevac
+All images were manually annotated using [CVAT](https://www.cvat.ai/).  
+Total number of annotations: **18,165**
+Image sources:
+ - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php); - *defunct*
+ - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/);
+ - Local elementary schools:
+   - OŠ Radoje Domanović, Kragujevac
+   - OŠ Jovan Popović, Kragujevac
 
 ### Dataset Split
-- **Total images**: 2,041
-  - **Training set**: 85% (1,745 images)
-  - **Validation set**: 15% (296 images)
+**Total images**: 2,041
+ - **Training set**: 85% (1,745 images)
+ - **Validation set**: 15% (296 images)
 
 ### Evaluation Results
 The final model's performance can be found in the `val3/` folder.  
 It includes:
-- Confusion matrices
-- F1-confidence curves
-- Precision-confidence curves
-- Recall-confidence curves
-- Example images with predicted labels
+ - Confusion matrices
+ - F1-confidence curves
+ - Precision-confidence curves
+ - Recall-confidence curves
+ - Example images with predicted labels
 
 ## Sample Images
 Some sample images collected locally are provided within 'sampleimages/'.

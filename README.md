@@ -7,11 +7,11 @@ The goal of the project was to build a model capable of recognizing various obje
 Implementation was done in Python, using the YOLOv8 large variant due to the complexity and variation in object appearances.
 
 ### Dataset and Annotations
-- All images were manually annotated using CVAT.  
+- All images were manually annotated using [CVAT](https://www.cvat.ai/).  
 - Total number of annotations: **18,165**
 - Image sources:
-  - Indiana State University
-  - Illinois State University
+  - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php);
+  - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/);
   - Local elementary schools:
     - OŠ Radoje Domanović, Kragujevac
     - OŠ Jovan Popović, Kragujevac

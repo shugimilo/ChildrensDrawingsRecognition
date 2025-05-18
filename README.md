@@ -21,9 +21,11 @@ CVAT Annotation Tool
 ![image](https://i.imgur.com/HRcxFf4.jpeg)
 
 Validation Set Batch - Manually Annotated
+
 ![image](https://i.imgur.com/sgRW1ib.jpeg)
 
 Validation Set Batch - Predictions
+
 ![image](https://i.imgur.com/QRUHuKU.jpeg)
 
 ---

@@ -30,8 +30,6 @@ Validation Set Batch - Predictions
 
 **Note**: In the last image, the decimal values next to class names represent the model's confidence score.
 
----
-
 ### Testing the model on your own
 If you wish to run inference on your own images or drawings with this model, download the best parameters from my [Google Drive link](https://drive.google.com/file/d/1NiUkRWOgjV4qxKYdS0yJPau25mCbi-ZL/view?usp=drive_link).
 

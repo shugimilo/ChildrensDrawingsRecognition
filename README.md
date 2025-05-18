@@ -70,6 +70,9 @@ Below is a list of classes and the number of their appearances in the entire dat
  - **Training set**: 85% (1,745 images)
  - **Validation set**: 15% (296 images)
 
+### Training
+The script used for model training is located in `scripts/main.py`. Training was done over 100 epochs. Other settings/hyperparameters can be found in the mentioned file.
+
 ### Evaluation Results
 The final model's performance can be found in the `val3/` folder.  
 It includes:

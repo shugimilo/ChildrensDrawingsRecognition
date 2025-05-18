@@ -37,7 +37,7 @@ If you wish to run inference on your own images or drawings with this model, dow
 
 ### Dataset and Annotations
 All images were manually annotated using [CVAT](https://www.cvat.ai/).  
-Total number of annotations: **18,165**
+Total number of annotations: **18,165**.
 Image sources:
  - [Indiana State University](https://childart.indstate.edu/choosefirstcriteria.php) - *defunct*
  - [Illinois State University](https://digital.library.illinoisstate.edu/digital/collection/icca/search/)

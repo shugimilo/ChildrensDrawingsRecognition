@@ -33,7 +33,7 @@ Validation Set Batch - Predictions
 ---
 
 ### Testing the model on your own
-If you wish to run inference on your own images or drawings, download the best parameters from my [Google Drive link](https://drive.google.com/file/d/1NiUkRWOgjV4qxKYdS0yJPau25mCbi-ZL/view?usp=drive_link).
+If you wish to run inference on your own images or drawings with this model, download the best parameters from my [Google Drive link](https://drive.google.com/file/d/1NiUkRWOgjV4qxKYdS0yJPau25mCbi-ZL/view?usp=drive_link).
 
 ## Project Overview
 

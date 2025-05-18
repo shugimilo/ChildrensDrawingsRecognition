@@ -28,6 +28,8 @@ Validation Set Batch - Predictions
 
 ![image](https://i.imgur.com/QRUHuKU.jpeg)
 
+**Note**: In the last image, the decimal values next to class names represent the model's confidence score.
+
 ---
 
 ### Dataset and Annotations

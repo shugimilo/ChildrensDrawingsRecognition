@@ -9,12 +9,15 @@ Implementation was done in Python, using the YOLOv8 large variant due to the com
 ---
 
 Unannotated Mock Image
+
 ![image](https://i.imgur.com/9mHSYXk.jpeg)
 
 Annotated Mock Image
+
 ![image](https://i.imgur.com/8UECwUf.jpeg)
 
 CVAT Annotation Tool
+
 ![image](https://i.imgur.com/HRcxFf4.jpeg)
 
 Validation Set Batch - Manually Annotated

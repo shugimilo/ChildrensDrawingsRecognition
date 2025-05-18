@@ -6,8 +6,6 @@ It was completed as part of the Deep Learning course during the third year of my
 The goal of the project was to build a model capable of recognizing various objects commonly found in children's drawings.  
 Implementation was done in Python, using the YOLOv8 large variant due to the complexity and variation in object appearances.
 
----
-
 Unannotated Mock Image
 
 ![image](https://i.imgur.com/9mHSYXk.jpeg)
@@ -32,6 +30,8 @@ Validation Set Batch - Predictions
 
 ### Testing the model on your own
 If you wish to run inference on your own images or drawings with this model, download the best parameters from my [Google Drive link](https://drive.google.com/file/d/1NiUkRWOgjV4qxKYdS0yJPau25mCbi-ZL/view?usp=drive_link).
+
+---
 
 ## Project Overview
 

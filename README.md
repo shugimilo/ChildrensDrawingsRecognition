@@ -6,6 +6,25 @@ It was completed as part of the Deep Learning course during the third year of my
 The goal of the project was to build a model capable of recognizing various objects commonly found in children's drawings.  
 Implementation was done in Python, using the YOLOv8 large variant due to the complexity and variation in object appearances.
 
+---
+
+Unannotated Mock Image
+[image](https://i.imgur.com/9mHSYXk.jpeg)
+
+Annotated Mock Image
+[image](https://i.imgur.com/8UECwUf.jpeg)
+
+CVAT Annotation Tool
+[image](https://i.imgur.com/HRcxFf4.jpeg)
+
+Validation Set Batch - Manually Annotated
+[image](https://i.imgur.com/sgRW1ib.jpeg)
+
+Validation Set Batch - Predictions
+[image](https://i.imgur.com/QRUHuKU.jpeg)
+
+---
+
 ### Dataset and Annotations
 All images were manually annotated using [CVAT](https://www.cvat.ai/).  
 Total number of annotations: **18,165**

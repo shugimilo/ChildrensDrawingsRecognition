@@ -80,3 +80,5 @@ It includes:
 
 ### Sample Images
 Some sample images collected locally are provided within `sampleimages/`.
+
+---
